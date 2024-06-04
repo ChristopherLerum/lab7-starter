@@ -1,2 +1,3 @@
 # Lab 7 - Starter
-Christopher Lerum
+Christopher Lerum  
+https://christopherlerum.github.io/lab7-starter/
